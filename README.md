@@ -1,4 +1,7 @@
 ### Hi there 👋
+### My name is Dwayne Draper.
+### I'm a React/Next.js developer with a love for TypeScipt and TailwindCSS.
+### I have enjoyed creating webpages since I was teenager when GeoCities and FrontPage were enough.
 
 <!--
 **dwaynedraper/dwaynedraper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
