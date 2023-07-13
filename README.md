@@ -1,7 +1,7 @@
+# Dean Draper - React/Next.js frontend developer.
 ### Hi there 👋
-### My name is Dwayne Draper.
-### I'm a React/Next.js developer with a love for TypeScipt and TailwindCSS.
-### I have enjoyed creating webpages since I was teenager when GeoCities and FrontPage were enough.
+### My name is Dwayne Draper. I'm a React/Next.js developer with a love for TypeScipt and TailwindCSS. I have had a passion for art and design since I was handed a crayon in kindergarten, and although my medium has occasionally changed, my love for creation will always persist. I bring years of experience with art, graphic design, UI/UX, and photography to the table as well as my coding skills, which I believe gives me a competitive edge over many frontend devs. I can translate designs into beautiful UIs quickly and efficiently.
+### I am currently on the lookout for a frontend development role. I would love to work with React and Next, as they are my specialty, but I would not be opposed to picking up Svelte or Vue either. I have limited experience with backend technologies, including Node, Express, Nest, and JOI, and know my way around MongoDB, PostgreSQL, and Redis as well. I am AWS Certified Cloud Practitioner, and I am working on my Developer Associate.
 
 <!--
 **dwaynedraper/dwaynedraper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
