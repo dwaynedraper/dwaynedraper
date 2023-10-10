@@ -17,7 +17,7 @@
 ## Certifications
 * AWS Certified Cloud Practitioner
 * Meta Front-End Developer
-* MongoDB Developer Associate (I will end of September anyway)
+* MongoDB Developer Associate
 
 <!--
 **dwaynedraper/dwaynedraper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
