@@ -27,7 +27,7 @@ I am currently on the lookout for a frontend-heavy development role. I would lov
 <!-- SOCIALS -->
  
 # 🤝 Connect with me
-<a target="_blank" href="https://dm-tools-blush.vercel.app/tracker">
+<a target="_blank" href="https://completegm.tools">
   <img src="https://img.shields.io/badge/Portfolio-272b33?logo=circle&logoColor=white&style=for-the-badge">
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/dean-draper/">
