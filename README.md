@@ -28,7 +28,7 @@ I am currently on the lookout for a frontend-heavy development role. I would lov
  
 # 🤝 Connect with me
 <a target="_blank" href="https://completegm.tools">
-  <img src="https://img.shields.io/badge/Portfolio_Project-272b33?logo=circle&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Demo_Project-272b33?logo=circle&logoColor=white&style=for-the-badge">
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/dean-draper/">
   <img src="https://img.shields.io/badge/linkedin-272b33?logo=linkedin&logoColor=2d87c9&style=for-the-badge">
