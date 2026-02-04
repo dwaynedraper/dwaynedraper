@@ -4,7 +4,7 @@ My name is Dean Draper, Jr. I'm a React/Next.js developer with a love for TypeSc
 I am currently on the lookout for a frontend-heavy development role. I would love to work with React and Next, as they are my specialty, but I would not be opposed to picking up Svelte or Vue either. I have extensive experience with backend technologies as well, including Node, Express, MongoDB, and AWS.
 
 ## 📰 Certifications
-* AWS Certified Cloud Practitioner (Dev Assoc. in progress)
+* AWS Certified Cloud Practitioner
 * MongoDB Developer Associate
 * Meta Front-End Developer
 * Toastmasters International Public Speaking (Technical Communications & Interpersonal Communication)
