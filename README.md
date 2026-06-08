@@ -1,54 +1,61 @@
-## 👋 Hi there 
-My name is Dean Draper, Jr. I'm a React/Next.js developer with a love for TypeScript and TailwindCSS. I have had a passion for art and design since I was handed a crayon in kindergarten, and although my medium has occasionally changed, my love for creation will always persist. I bring years of experience with art, graphic design, UI/UX, and photography to the table as well as my coding skills, which I believe gives me a competitive edge over many other developers. I can translate designs into beautiful UIs quickly and efficiently. I understand color psychology and theory, accessibility, and how to achieve strong brand recognition through unique and consistent design language.
+<div align="center">
 
-I am currently on the lookout for a frontend-heavy development role. I would love to work with React and Next, as they are my specialty, but I would not be opposed to picking up Svelte or Vue either. I have extensive experience with backend technologies as well, including Node, Express, MongoDB, and AWS.
+# 👋 Dean Draper, Jr.
 
-## 📰 Certifications
-* AWS Certified Cloud Practitioner
-* MongoDB Developer Associate
-* Meta Front-End Developer
-* Toastmasters International Public Speaking (Technical Communications & Interpersonal Communication)
+### Frontend developer. Visual storyteller. Founder of Sharp Sighted.
 
-<!-- TECHNOLOGIES -->
- 
+</div>
+
+I build with React, Next.js, TypeScript, and TailwindCSS. I have loved making things since someone handed me a crayon in kindergarten. The medium keeps changing. The drive never does.
+
+Art, design, UI/UX, and photography live in the same part of my brain as code. That blend is my edge. I understand color, accessibility, and brand. I turn designs into clean, fast interfaces without losing what makes them feel human.
+
+These days I run Sharp Sighted, a photography and media brand in the DFW area. Building its tools and sites pulled me back to the keyboard, and I remembered how much I love it. So I am writing real code again, having fun, and thinking seriously about a return to software.
+
+### Sharp Sighted
+
+The brand I run and the reason I started coding again. I design, build, and ship the web presence behind all of it.
+
 ## 💻 Technologies
 
-![TypeScript](https://img.shields.io/badge/typescript-272b33?logo=typescript&logoColor=ead41c&style=for-the-badge)
-![React](https://img.shields.io/badge/react-272b33?logo=react&logoColor=61dbfb&style=for-the-badge)
-![Next JS](https://img.shields.io/badge/Next-272b33?style=for-the-badge&logo=next.js&logoColor=white) 
-![Node.js](https://img.shields.io/badge/node.js-272b33?logo=node.js&logoColor=6bbf47&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/express-272b33?logo=express&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/mongodb-272b33?logo=mongodb&logoColor=4aae3e&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-272b33?style=for-the-badge&logo=tailwind-css&logoColor=07b0ce) 
-![Git](https://img.shields.io/badge/git-272b33?style=for-the-badge&logo=git&logoColor=f05033) 
-![Vercel](https://img.shields.io/badge/vercel-272b33?style=for-the-badge&logo=vercel&logoColor=white) 
-![Websockets](https://img.shields.io/badge/websockets-272b33?style=for-the-badge&logo=websockets&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/typescript-272b33?logo=typescript&logoColor=ead41c&style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/react-272b33?logo=react&logoColor=61dbfb&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/Next-272b33?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-272b33?style=for-the-badge&logo=tailwind-css&logoColor=07b0ce" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/node.js-272b33?logo=node.js&logoColor=6bbf47&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express-272b33?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
+  <img src="https://img.shields.io/badge/mongodb-272b33?logo=mongodb&logoColor=4aae3e&style=for-the-badge" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/postgresql-272b33?logo=postgresql&logoColor=4f93c0&style=for-the-badge" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/aws-272b33?logo=amazonwebservices&logoColor=ff9900&style=for-the-badge" alt="AWS" />
+  <img src="https://img.shields.io/badge/vercel-272b33?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/git-272b33?style=for-the-badge&logo=git&logoColor=f05033" alt="Git" />
+  <img src="https://img.shields.io/badge/websockets-272b33?style=for-the-badge&logo=websockets&logoColor=white" alt="Websockets" />
+</p>
 
-<!-- SOCIALS -->
- 
-# 🤝 Connect with me
-<a target="_blank" href="https://completegm.tools">
-  <img src="https://img.shields.io/badge/Demo_Project-272b33?logo=circle&logoColor=white&style=for-the-badge">
-</a>
-<a target="_blank" href="https://www.linkedin.com/in/dean-draper/">
-  <img src="https://img.shields.io/badge/linkedin-272b33?logo=linkedin&logoColor=2d87c9&style=for-the-badge">
-</a>
-<a target="_blank" href="https://wellfound.com/u/dean-draper-3">
-  <img src="https://img.shields.io/badge/angellist-272b33?logo=angellist&logoColor=white&style=for-the-badge">
-</a>
+## 📜 Certifications
 
+- AWS Certified Cloud Practitioner
+- MongoDB Developer Associate
+- Meta Front-End Developer
+- Toastmasters International Public Speaking, technical and interpersonal communication
+- FAA Part 107 Remote Pilot
 
-<!--
-**dwaynedraper/dwaynedraper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤝 Connect
 
-Here are some ideas to get you started:
+If you are building something interesting, I would love to hear about it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/dean-draper/">
+    <img src="https://img.shields.io/badge/linkedin-272b33?logo=linkedin&logoColor=2d87c9&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a target="_blank" href="https://wellfound.com/u/dean-draper-3">
+    <img src="https://img.shields.io/badge/wellfound-272b33?logo=wellfound&logoColor=white&style=for-the-badge" alt="Wellfound" />
+  </a>
+</p>
+
+<div align="center">
+
+### Stay Sharp. Stay Seen. Stay Human.
+
+</div>
